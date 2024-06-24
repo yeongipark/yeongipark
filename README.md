@@ -1,4 +1,4 @@
-### Hi there, I'm Yeongi Park 👋
+### FE 개발자, 박연기입니다 👋
 
 ## Introduction
 - 자기주도적으로 학습하고 끊임없이 배우며 성장하는 개발자😊
