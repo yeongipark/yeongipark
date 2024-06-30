@@ -7,7 +7,7 @@
 
 ## Career
 - 영남대학교 졸업 예정 
-- 영남대학교 멋쟁이사자처럼 12기
+- 영남대학교 멋쟁이사자처럼 12기 FE
 
 ## Tech Stack
 Langauge :   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/java-4B4B77?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -21,7 +21,7 @@ Deployment : <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-
 Communication : <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 
 ## I’m currently learning ...
- <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
 
 ## stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongipark&show_icons=true&theme=dracula)
