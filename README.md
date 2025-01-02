@@ -9,7 +9,6 @@
 ## Career
 - 영남대학교 졸업 예정 
 - 영남대학교 멋쟁이사자처럼 12기 FE
-- 우아한테크코스 7기 FE
 
 ## Tech Stack
 Langauge :   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/java-4B4B77?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
