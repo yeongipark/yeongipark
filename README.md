@@ -1,14 +1,6 @@
 ### FE 개발자, 박연기입니다 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeongipark&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Introduction
-- 끊임없이 배우며 성장하는 개발자😊
-- 사용자의 입장에서 생각하는 개발자😋
-- 소통을 좋아하는 개발자🤗
-
-## Career
-- 영남대학교 졸업 예정 
-- 영남대학교 멋쟁이사자처럼 12기 FE
 
 ## Tech Stack
 Langauge :   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/java-4B4B77?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
